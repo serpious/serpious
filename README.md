@@ -1,19 +1,11 @@
-# Hi 👋, I'm Astha Yadav
+#### Astha Yadav: Quantum Communications Research Student
 
-### Quantum Communications Research Student
-
-- 🔭 I'm currently working on **simulating quantum routing in a dynamically changing mesh **
-
-- 🌱 I'm currently learning **SeQUeNCe, C++, Rust**
-
-- 👯 I'm looking to collaborate on **quantum networks related projects**
-
-- 🤝 I'm looking for help with **getting on-site projects and labwork**
-
-- 💬 Ask me about **QKD, Quantum Networks, Quantum Information**
-
-- 📫 How to reach me **asthayadav@proton.me**
-
+- I'm currently working on **simulating quantum routing in a dynamically changing mesh **
+- I'm currently learning **SeQUeNCe, C++, Rust**
+- I'm looking to collaborate on **quantum networks related projects**
+- I'm looking for help with **getting on-site projects and labwork**
+- Ask me about **QKD, Quantum Networks, Quantum Information**
+- 📫 Reach me **asthayadav@proton.me**
 - 👨‍💻 All of my projects are available at **[https://serpious.github.io](https://serpious.github.io)**
 
 - 📝 I regularly write articles on **[https://serpious.github.io/thoughts](https://serpious.github.io/thoughts)**
