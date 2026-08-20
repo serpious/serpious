@@ -1,4 +1,4 @@
-### Astha Yadav - Quantum Communications Research Student
+## Astha Yadav - Quantum Communications Research Student
 Find contact information, my portfolio/CV and more info about me on my site at **[https://serpious.github.io](https://serpious.github.io)**
 
 - 💎 Currently working on **simulating quantum routing in a dynamically changing mesh**
